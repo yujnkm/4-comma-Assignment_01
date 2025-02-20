@@ -33,10 +33,11 @@
 </div>
 
 [![4-comma][images-fig1]](https://example.com)
+
+Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. 
+
 <!-- Abstract -->
 ## Abstract
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -46,6 +47,10 @@ Here's why:
 * You should implement DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+[![4-comma][images-fig2]](https://example.com)
+
+Figure 2. This is my 4-comma, explain what this 4-comma is trying to encaptulate. 
 
 <!-- Abstract -->
 ## Abstract
