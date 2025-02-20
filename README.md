@@ -32,7 +32,7 @@
   </p>
 </div>
 
-[![4-comma][product-screenshot]](https://example.com)
+[![4-comma][images-fig1]](https://example.com)
 <!-- Abstract -->
 ## Abstract
 
