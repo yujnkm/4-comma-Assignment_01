@@ -16,8 +16,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">4-Comma: My Title Here</h3>
@@ -34,7 +32,7 @@
   </p>
 </div>
 
-
+[![4-comma][product-screenshot]](https://example.com)
 <!-- Abstract -->
 ## Abstract
 
@@ -221,6 +219,12 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[images-fig1]: images/fig1.png
+[images-fig2]: images/fig2.png
+[images-fig3]: images/fig3.png
+[images-fig4]: images/fig4.png
+[images-fig5]: images/fig5.png
+[images-fig6]: images/fig6.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
