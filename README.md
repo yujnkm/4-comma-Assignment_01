@@ -59,8 +59,8 @@ Figure 2. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 
 Your Introduction and Related Works here: 200 words here.
 
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty~\cite{faircloth2011dynamic}, and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution~\cite{enquist1994symmetry} that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design~\cite{kamp2019nature} and my work show the influence of that visual in 4-comma cell number 3. 
+Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
+Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
 
 How to use subsection:
 
@@ -68,35 +68,15 @@ How to use subsection:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+## Methodology
 
-<!-- GETTING STARTED -->
-## Getting Started
+Your Methodology and Related Works here: 200 words here.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Result and Future Work
+Your Result and Future Work here: 100 words here.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-
-
+## Conclusion
+Your Conclusion here: 50 words here
 
 <!-- Bibliography -->
 ## Bibliography 
@@ -113,7 +93,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 Your Name - email@tamu.edu
 
-Personal Website: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Personal Website: [https://website.com](https://website.com)
 
 
 
