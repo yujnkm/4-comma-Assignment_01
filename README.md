@@ -26,9 +26,9 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Your Name</a>
+    <a href="https://website.com">Your Name</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">VIZA 626</a>
+    <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
 </div>
 
